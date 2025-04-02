@@ -15,10 +15,8 @@ This project analyzes correlations between major film industry factors using Pyt
 
 ## 📈 Visualizations
 ### RegrexPlot
-![scatter_line png](https://github.com/user-attachments/assets/65303f9e-db1f-419f-99b8-7029c5d8ca62)
 
 ### Correlation Heatmap
-![corr_all png](https://github.com/user-attachments/assets/8080a68f-94f8-4ca3-b11d-4d8c28195058)
 
 
 
