@@ -14,10 +14,12 @@ This project analyzes correlations between major film industry factors using Pyt
 - Votes vs.Director and Writer: Near-zero correlation (0.000260 and 0.000892) suggests director names and writer names alone don’t impact engagement of audience.
 
 ## 📈 Visualizations
+
 ### RegrexPlot
+![scatter_line png](https://github.com/user-attachments/assets/9d33bcb8-0867-4f37-b834-203d87fd1c8a)
 
 ### Correlation Heatmap
-
+![corr_all png](https://github.com/user-attachments/assets/2e570058-8f24-4a2b-ae4a-0a4bdeed804e)
 
 
 
